@@ -12,7 +12,7 @@
       "textPosition": "RIGHT"
     }
   },
-  "info-card#bbutton-right":{
+  "info-card#button-right":{
     "props":{
       "textPosition": "right",
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-rosa-min.png",
@@ -24,7 +24,7 @@
       "textAlignment": "center"
     }
   },
-  "info-card#bbutton-left":{
+  "info-card#button-left":{
     "props":{
       "textPosition": "left",
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-cinza-min.png",
