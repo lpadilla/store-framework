@@ -6,8 +6,8 @@
         "timeout": 5000,
         "stopOnHover": false,
         "autoplay":{
-        	"stopOnHover": true,
-        	"timeout": 700
+        	"timeout": 700,
+        	"stopOnHover": true
         }
 
       }
