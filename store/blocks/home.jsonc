@@ -9,7 +9,7 @@
   },
   "rich-text": {
     "props": {
-      "text": "**Hello, World!**",
+      "text": "**Hello, World! Lyzmar**",
       "textPosition": "RIGHT"
     }
   },
